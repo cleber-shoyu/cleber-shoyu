@@ -1,13 +1,13 @@
-### Ola tudo bem? eu sou o Cleber 👋
+### Olá tudo bem? eu sou o Cleber 👋
 
 - 👩🏽‍💻 Eu Sou desenvolvedor front-end...
 - Tenho conhecimento avançado em HTML5, CSS3, bootstrap, Figma.
 - 🐱‍👤Tenho conhecimento em linguagem Javascript e typescript.
-- E atualmente estudo react.js e me aperfeiçoando e buscando sempre aprendizado.
+- atualmente estudo react.js com typescript.
 - 💬 Também possuo conhecimento em SQL...
 - 📫 Meu LinkedIn é https://www.linkedin.com/in/cleber-santos-20
 - 📞Contatos: WhatsApp:061991472005. e-mail: cleberful20@gmail.com 
-- 👨🏽‍🎓também curso meu último semestre em graduação de Análise e desenvolvimento de sistemas.
+- 👨🏽‍🎓Graduação em Análise e Desenvolvimento de Sistemas.
 
 -->
 <div align="center">
