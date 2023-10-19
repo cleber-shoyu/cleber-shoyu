@@ -3,7 +3,7 @@
 - 👩🏽‍💻 Eu Sou desenvolvedor front-end...
 - Tenho conhecimento avançado em HTML5, CSS3, bootstrap, Figma.
 - 🐱‍👤Tenho conhecimento em linguagem Javascript e typescript.
-- atualmente estudo react.js com typescript.
+- tenho conhecimento em react.js e atualmente estudo react.js com typescript.
 - 💬 Também possuo conhecimento em SQL...
 - 📫 Meu LinkedIn é https://www.linkedin.com/in/cleber-santos-20
 - 📞Contatos: WhatsApp:061991472005. e-mail: cleberful20@gmail.com 
