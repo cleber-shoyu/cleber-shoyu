@@ -5,7 +5,6 @@
 - 🐱‍👤Tenho conhecimento em linguagem Javascript e typescript.
 - tenho conhecimento em react.js e atualmente estudo react.js com typescript.
 - 💬 Também possuo conhecimento em SQL...
-- 📫 Meu LinkedIn é https://www.linkedin.com/in/cleber-santos-20
 - 📞Contatos: WhatsApp:061991472005. e-mail: cleberful20@gmail.com 
 - 👨🏽‍🎓Graduação em Análise e Desenvolvimento de Sistemas.
 
