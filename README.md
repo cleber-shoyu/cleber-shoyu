@@ -1,11 +1,11 @@
 ### Olá tudo bem? eu sou o Cleber 👋
 
-- 👩🏽‍💻 Eu Sou desenvolvedor front-end...
-- Tenho conhecimento avançado em HTML5, CSS3, bootstrap, Figma.
+- 👩🏽‍💻 Eu Sou desenvolvedor full-stack...
+- Tenho conhecimento avançado em HTML5, CSS3, bootstrap, Figma, tailwind.css, shadCN.
 - 🐱‍👤Tenho conhecimento em linguagem Javascript e typescript.
-- tenho conhecimento em react.js e atualmente estudo react.js com typescript.
+- tenho conhecimentos em react.js, node.js, express, zod, JWT, etc.
 - 💬 Também possuo conhecimento em SQL...
-- 📞Contatos: WhatsApp:061991472005. e-mail: cleberful20@gmail.com 
+- 📞e-mail: cleberful20@gmail.com 
 - 👨🏽‍🎓Graduação em Análise e Desenvolvimento de Sistemas.
 
 -->
