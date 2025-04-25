@@ -1,12 +1,11 @@
 ### Olá tudo bem? eu sou o Cleber 👋
 
-- 👩🏽‍💻 Eu Sou desenvolvedor full-stack...
-- Tenho conhecimento avançado em HTML5, CSS3, bootstrap, Figma, tailwind.css, shadCN.
+- 👩🏽‍💻Sou desenvolvedor full-stack...
+- Tenho conhecimento avançado em HTML5, CSS3, bootstrap, Figma, tailwind.css, React.js, Next.js, shadcnUI.
+- tenho conhecimentos em Node.js, express, zod, JWT, sql, NoSql entre outras tecnologias.
 - 🐱‍👤Tenho conhecimento em linguagem Javascript e typescript.
-- tenho conhecimentos em react.js, node.js, express, zod, JWT, etc.
-- 💬 Também possuo conhecimento em SQL...
 - 📞e-mail: cleberful20@gmail.com 
-- 👨🏽‍🎓Graduação em Análise e Desenvolvimento de Sistemas.
+- 👨🏽‍🎓Graduação completa em Análise e Desenvolvimento de Sistemas.
 
 -->
 <div align="center">
@@ -26,7 +25,7 @@
 ##
 
 <div> 
-  <a href="https://instagram.com/cleber_santosaraujo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:cleberful20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cleber-santos-20" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
